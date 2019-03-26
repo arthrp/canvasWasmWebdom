@@ -1,0 +1,12 @@
+[package]
+name = "canvas_wasm_webdom"
+version = "0.1.0"
+authors = ["arthrp"]
+edition = "2018"
+
+[lib]
+crate-type =["cdylib"]
+
+[dependencies]
+web-dom = "0.1"
+ref_thread_local = "0.0"
