@@ -2,3 +2,7 @@
 Example project using Rust webDom library. 
 
 You can try it out [here](https://arthrp.github.io/canvasWasmWebdom/).
+
+## Building
+
+Make sure you have ```wasm32-unknown-unknown``` target installed. Then run build.sh script.
